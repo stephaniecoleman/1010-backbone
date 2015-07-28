@@ -1,0 +1,15 @@
+{
+	"name": "1010-backbone",
+	"description": "A Backbone.js implementation of the game 1010!",
+	"version": "0.0.1",
+	"author": "Stephanie Coleman",
+	"repository" :
+	  { "type" : "git"
+	  , "url" : "https://github.com/stephaniecoleman/1010-backbone"
+	  },
+  "dependencies": {
+    "backbone": "1.2.*",
+    "jquery": "2.1.*",
+    "underscore": "1.8.*"
+  }
+}
